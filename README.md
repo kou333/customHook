@@ -62,6 +62,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
+Level up your React game with custom hooks! 🎣
+
+Abstract common logic (like data fetching) into a reusable hook to: ✅ Simplify components ✅ Keep code DRY (Don't Repeat Yourself) ✅ Boost modularity
+
+Example: useFetch for managing data, loading, and error. 🚀
+
+#ReactJS #WebDev"
+
+![Screenshot](https://github.com/kou333/customHook/blob/main/Screenshot%202024-12-16%20170123.png?raw=true)
+
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
